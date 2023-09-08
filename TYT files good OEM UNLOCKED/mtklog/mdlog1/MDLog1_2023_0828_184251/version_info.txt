@@ -1,0 +1,3 @@
+Android Version: alps-mp-p0.mp1-V5.313_droi.p0mp1.k39tv1.64.bsp_P2
+Modem Version: MOLY.LR12A.R3.MP.V145.3.P5 2022/07/21 09:51
+Project:unknown

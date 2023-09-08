@@ -1,0 +1,1392 @@
+************* Log Head ****************
+Date of Log        : 2023_08_28
+Rom Info           : RomInfo{name=tyt, version=pl0762wwa46.tyt.a46.hb.p0.w.230816.v3.01.test3.debug}
+Device Manufacturer: TYT
+Device Model       : PL07
+Android Version    : 9
+Android SDK        : 28
+App VersionName    : 1.15
+App VersionCode    : 115
+************* Log Head ****************
+
+17:24:12.819 I/SourceFile [main, com.tyt.libwebrtc.websocket.WebSocketManager.start(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = 启动Websocket线程
+
+17:24:12.861 I/SourceFile [main, com.tyt.libwebrtc.websocket.WebSocketManager.start(SourceFile:5)]: args[0] = WebSocketManager
+args[1] = 启动Websocket线程 成功
+
+17:24:12.862 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:true
+17:24:12.867 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:5)]: websocket 定时器 重连
+17:24:12.871 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.connect(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = Websocket连接:connect ip:124.71.47.21 port:8086 id:209
+
+17:24:13.361 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onOpen(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = Websocket连接成功
+
+17:24:13.458 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{"type":"new","success":true,"reason":"","data":null}
+
+17:24:15.984 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:18.357 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:18.987 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:21.993 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:23.360 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:24.998 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:28.002 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:28.358 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:31.005 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:33.358 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:34.010 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:37.015 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:38.396 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:40.020 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:43.026 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:43.357 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:46.031 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:48.476 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:49.035 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:52.043 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:53.436 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:24:55.050 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:58.057 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:24:58.365 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:01.062 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:03.361 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:04.066 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:07.072 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:08.405 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:10.077 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:13.082 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:13.388 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:16.086 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:18.394 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:19.093 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:22.101 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:23.359 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:25.107 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:28.113 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:28.473 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:31.117 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:33.435 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:34.123 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:37.128 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:38.395 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:40.134 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:43.140 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:43.360 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:44.376 I/SourceFile [main, com.tyt.libwebrtc.VoipEvent.init(SourceFile:1)]: init ip:124.71.47.21 voice:106.15.8.60 port:8086 id:209 name:TKSPCS12
+17:25:46.148 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:48.357 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:49.153 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:52.160 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:53.432 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:25:55.167 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:58.171 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:25:58.355 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:01.175 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:03.357 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:04.180 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:07.185 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:08.357 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:10.192 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:13.197 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:13.395 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:16.203 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:18.400 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:19.209 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:22.217 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:23.360 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:25.222 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:28.227 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:28.365 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:31.232 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:33.432 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:34.237 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:37.243 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:38.399 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:40.250 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:43.256 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:45.876 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:46.262 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:48.358 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:49.270 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:52.277 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:53.435 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:26:55.283 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:58.290 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:26:58.364 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:27:01.292 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:27:03.355 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:27:04.295 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:27:07.301 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+17:27:08.479 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+17:27:09.900 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onError(SourceFile:1)]: Websocket发生异常 err:Read error: ssl=0x7369b2d088: I/O error during system call, Software caused connection abort
+17:27:09.914 I/SourceFile [WebSocketConnectReadThread-361, com.tyt.libwebrtc.websocket.WebSocketManager$1.onClose(SourceFile:1)]: Websocket断开连接 code:1000 reason: remote:false
+17:27:09.944 I/SourceFile [WebSocketWriteThread-362, com.tyt.libwebrtc.websocket.WebSocketManager$1.onError(SourceFile:1)]: Websocket发生异常 err:Write error: ssl=0x7369b2d088: I/O error during system call, Broken pipe
+17:27:09.946 I/SourceFile [Thread-17, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:false isClosed:true
+17:27:10.971 I/SourceFile [main, com.tyt.libwebrtc.VoipEvent$NetworkListener.onDisconnected(SourceFile:1)]: args[0] = VoipEvent
+args[1] = onDisconnected
+
+18:47:12.539 I/SourceFile [main, com.tyt.libwebrtc.websocket.WebSocketManager.start(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = 启动Websocket线程
+
+18:47:12.543 I/SourceFile [main, com.tyt.libwebrtc.websocket.WebSocketManager.start(SourceFile:5)]: args[0] = WebSocketManager
+args[1] = 启动Websocket线程 成功
+
+18:47:12.583 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:true
+18:47:12.584 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:5)]: websocket 定时器 重连
+18:47:12.585 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.connect(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = Websocket连接:connect ip:124.71.47.21 port:8086 id:209
+
+18:47:13.346 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onOpen(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = Websocket连接成功
+
+18:47:13.481 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{"type":"new","success":true,"reason":"","data":null}
+
+18:47:15.665 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:18.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:18.670 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:21.674 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:23.423 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:24.680 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:27.686 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:28.342 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:30.693 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:33.344 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:33.698 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:36.702 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:38.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:39.708 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:42.714 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:43.425 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:45.719 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:48.383 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:48.723 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:51.727 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:53.342 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:47:54.733 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:57.736 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:47:58.464 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:00.740 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:03.424 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:03.745 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:06.750 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:08.384 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:09.757 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:12.764 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:13.344 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:15.769 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:18.465 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:18.775 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:21.783 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:23.425 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:24.790 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:27.798 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:28.385 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:30.805 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:33.346 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:33.813 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:36.819 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:38.341 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:39.824 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:42.831 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:43.344 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:45.840 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:48.851 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:51.857 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:53.345 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:48:54.864 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:57.869 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:48:58.578 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:00.876 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:03.425 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:03.886 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:06.893 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:08.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:09.899 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:12.906 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:13.342 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:15.913 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:18.431 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:18.919 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:21.926 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:23.344 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:24.934 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:27.941 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:28.385 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:30.949 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:33.345 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:33.957 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:36.965 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:38.341 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:39.972 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:42.979 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:45.987 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:48.996 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:52.003 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:53.544 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:53.619 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:53.622 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:49:55.014 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:58.024 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:49:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:01.032 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:03.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:04.040 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:07.046 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:08.398 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:10.054 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:13.061 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:13.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:16.068 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:18.477 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:19.077 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:22.083 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:23.435 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:25.088 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:28.094 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:28.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:31.101 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:33.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:34.108 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:37.113 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:38.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:40.119 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:43.124 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:43.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:46.129 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:48.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:49.135 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:52.140 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:53.356 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:50:55.146 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:58.153 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:50:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:01.158 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:03.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:04.164 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:07.172 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:08.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:10.179 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:13.184 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:13.341 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:16.192 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:18.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:19.196 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:22.202 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:23.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:25.209 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:28.216 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:28.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:31.223 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:33.356 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:34.230 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:37.237 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:38.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:40.244 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:43.252 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:43.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:46.259 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:48.342 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:49.266 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:52.274 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:53.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:51:55.281 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:58.288 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:51:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:01.296 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:03.436 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:04.303 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:07.310 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:08.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:10.316 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:13.324 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:13.355 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:16.331 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:18.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:19.338 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:22.346 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:23.390 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:25.353 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:28.361 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:28.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:31.368 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:33.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:34.375 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:37.382 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:38.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:40.387 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:43.393 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:43.435 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:46.400 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:48.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:49.408 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:52.415 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:53.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:52:55.422 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:58.429 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:52:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:01.437 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:03.435 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:04.443 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:07.450 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:08.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:10.457 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:13.356 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:13.464 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:16.470 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:18.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:19.475 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:22.481 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:23.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:25.487 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:28.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:28.494 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:31.500 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:33.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:34.506 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:37.513 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:38.472 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:40.520 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:43.432 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:43.525 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:46.531 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:48.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:49.538 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:52.544 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:53.356 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:55.550 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:53:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:53:58.557 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:01.564 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:03.435 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:04.569 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:07.575 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:08.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:10.582 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:13.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:13.589 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:16.596 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:18.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:19.604 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:22.611 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:23.341 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:25.616 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:28.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:28.623 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:31.630 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:33.355 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:34.637 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:37.644 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:40.651 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:43.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:43.658 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:46.663 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:48.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:49.668 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:52.674 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:53.355 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:55.679 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:54:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:54:58.687 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:01.694 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:03.435 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:04.701 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:07.707 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:08.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:10.713 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:13.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:13.720 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:16.728 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:18.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:19.735 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:22.743 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:23.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:25.750 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:28.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:28.758 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:31.765 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:33.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:34.773 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:37.780 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:40.787 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:43.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:43.794 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:46.801 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:48.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:49.808 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:52.815 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:53.363 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:55.821 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:55:58.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:55:58.827 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:01.835 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:03.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:04.842 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:07.849 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:08.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:10.857 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:13.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:13.864 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:16.871 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:18.352 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:19.879 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:22.886 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:23.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:25.894 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:28.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:28.901 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:31.908 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:33.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:34.916 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:37.923 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:40.930 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:43.432 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:43.937 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:46.945 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:48.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:49.952 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:52.959 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:53.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:55.967 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:56:58.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:56:58.975 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:01.982 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:03.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:04.989 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:07.997 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:08.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:11.004 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:13.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:14.011 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:17.018 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:18.452 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:20.026 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:23.033 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:23.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:26.041 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:28.396 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:29.049 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:32.057 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:33.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:35.065 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:38.074 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:41.082 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:43.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:44.088 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:47.094 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:48.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:50.101 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:53.108 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:53.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:56.114 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:57:58.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:57:59.119 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:02.124 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:03.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:05.130 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:08.135 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:08.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:11.140 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:13.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:14.145 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:17.150 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:18.336 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:20.156 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:23.162 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:23.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:26.170 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:28.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:29.177 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:32.186 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:33.341 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:35.193 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:38.198 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:41.203 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:43.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:44.208 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:47.215 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:48.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:50.222 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:53.228 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:53.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:56.235 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:58:58.339 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:58:59.242 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:02.250 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:03.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:05.255 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:08.261 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:08.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:11.266 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:13.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:14.272 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:17.279 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:18.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:20.284 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:23.291 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:23.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:26.298 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:28.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:29.306 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:32.312 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:33.355 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:35.319 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:38.326 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:38.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:41.333 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:43.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:44.340 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:47.347 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:48.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:50.353 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:53.351 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:53.356 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:56.362 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+18:59:58.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+18:59:59.369 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:02.377 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:03.340 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:05.386 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:08.394 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:08.398 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:11.406 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:13.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:14.410 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:17.416 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:18.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:20.423 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:23.430 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:26.437 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:28.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:29.443 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:32.450 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:33.363 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:35.454 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:38.460 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:38.579 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:41.467 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:43.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:44.474 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:47.481 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:48.409 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:50.487 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:53.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:53.494 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:56.498 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:00:58.475 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:00:59.504 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:02.511 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:03.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:05.517 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:08.395 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:08.525 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:11.532 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:13.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:14.539 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:17.544 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:18.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:20.549 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:23.556 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:26.562 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:28.391 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:29.569 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:32.579 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:33.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:35.587 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:38.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:38.598 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:41.607 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:43.434 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:44.614 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:47.621 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:50.628 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:53.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:53.635 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:56.643 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:01:58.430 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:01:59.649 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:02.656 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:03.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:05.665 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:08.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:08.674 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:11.681 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:13.354 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:14.688 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:17.695 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:18.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:20.702 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:23.709 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:26.716 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:28.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:29.723 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:32.730 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:33.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:35.736 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:38.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:38.742 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:41.749 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:43.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:44.756 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:47.763 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:50.770 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:53.355 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:53.777 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:56.784 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:02:58.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:02:59.791 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:02.798 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:03.439 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:05.805 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:08.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:08.813 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:11.818 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:13.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:14.824 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:17.831 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:18.579 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:20.839 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:23.845 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:26.852 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:28.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:29.859 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:32.866 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:33.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:35.873 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:38.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:38.880 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:41.885 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:43.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:44.892 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:47.898 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:50.904 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:53.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:53.912 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:56.919 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:03:58.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:03:59.927 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:02.934 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:03.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:05.941 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:08.394 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:08.947 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:11.954 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:13.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:14.959 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:17.963 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:18.474 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:20.969 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:23.976 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:26.985 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:28.391 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:29.988 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:32.995 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:33.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:36.002 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:38.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:39.005 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:42.012 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:43.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:45.019 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:48.029 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:51.036 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:53.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:04:54.043 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:57.052 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:04:58.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:00.056 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:03.061 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:03.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:06.068 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:08.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:09.073 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:12.083 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:13.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:15.090 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:18.095 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:18.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:21.098 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:23.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:24.104 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:27.111 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:28.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:30.117 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:33.123 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:33.352 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:36.128 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:38.577 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:39.133 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:42.138 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:43.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:45.143 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:48.155 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:48.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:51.161 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:53.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:05:54.166 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:57.172 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:05:58.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:00.178 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:03.183 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:03.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:06.189 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:08.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:09.196 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:12.202 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:13.335 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:15.209 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:18.217 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:18.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:21.224 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:24.229 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:27.235 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:28.392 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:30.242 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:33.249 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:33.352 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:36.256 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:38.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:39.262 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:42.270 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:43.336 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:45.274 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:48.280 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:48.338 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:51.287 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:53.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:06:54.295 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:57.301 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:06:58.472 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:00.307 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:03.314 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:03.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:06.320 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:08.393 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:09.327 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:12.334 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:13.336 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:15.341 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:18.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:18.347 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:21.355 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:23.433 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:24.361 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:27.368 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:28.391 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:30.375 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:33.353 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:33.382 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:36.389 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:38.470 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:39.396 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:42.403 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:43.431 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:45.411 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:48.337 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:48.419 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:51.429 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:53.352 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:07:54.435 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:57.443 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:07:58.473 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:08:00.450 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:08:03.432 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:08:03.456 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:08:06.464 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:08:08.392 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:08:09.472 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:08:12.478 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
+19:08:13.335 I/SourceFile [WebSocketConnectReadThread-286, com.tyt.libwebrtc.websocket.WebSocketManager$1.onMessage(SourceFile:1)]: args[0] = WebSocketManager
+args[1] = onMessage:{}
+
+19:08:15.484 I/SourceFile [Thread-12, com.tyt.libwebrtc.websocket.WebSocketManager.run(SourceFile:3)]: websocket 定时器 执行 isConnected:true isClosed:false
