@@ -1,0 +1,61 @@
+BOARD=Freeme
+CPU_ABI2=
+HOST=server
+versionName=5.28
+IS_TREBLE_ENABLED=true
+SUPPORTED_64_BIT_ABIS=[Ljava.lang.String;@e60cec3
+CPU_ABI=arm64-v8a
+PERMISSIONS_REVIEW_REQUIRED=false
+IS_USERDEBUG=true
+DISPLAY=PL0762WWA46.TYT.A46.HB.P0.W.230816.V3.01.TEST3.debug
+SUPPORTED_ABIS=[Ljava.lang.String;@c09a340
+FINGERPRINT=myPhone/Hammer_Explorer_EEA/Hammer_Explorer:9/PPR1.180610.011/1594087357:user/release-keys
+PRODUCT=TYT
+ID=PPR1.180610.011
+TYPE=userdebug
+SERIAL=unknown
+IS_CONTAINER=false
+IS_ENG=false
+DEVICE=TYT
+TIME=1692158088000
+IS_USER=false
+MODEL=PL07
+MANUFACTURER=TYT
+USER=server
+versionCode=215
+BRAND=TYT
+SUPPORTED_32_BIT_ABIS=[Ljava.lang.String;@b613a72
+HARDWARE=mt6739
+IS_DEBUGGABLE=true
+BOOTLOADER=unknown
+RADIO=unknown
+TAG=Build
+UNKNOWN=unknown
+IS_EMULATOR=false
+TAGS=release-keys
+java.lang.RuntimeException: An error occurred while executing doInBackground()
+	at android.os.AsyncTask$3.done(AsyncTask.java:354)
+	at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:383)
+	at java.util.concurrent.FutureTask.setException(FutureTask.java:252)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:271)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.lang.IllegalArgumentException: Given work is not active: JobWorkItem{id=1 intent=Intent { act=android.intent.action.BOOT_COMPLETED flg=0x9000010 cmp=com.adups.fota/.receiver.MyReceiver (has extras) } dcount=1}
+	at android.app.job.JobParameters.completeWork(JobParameters.java:268)
+	at androidx.core.app.JobIntentService$f$a.a(JobIntentService.java:3)
+	at androidx.core.app.JobIntentService$a.a(JobIntentService.java:3)
+	at androidx.core.app.JobIntentService$a.doInBackground(JobIntentService.java:1)
+	at android.os.AsyncTask$2.call(AsyncTask.java:333)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	... 3 more
+java.lang.IllegalArgumentException: Given work is not active: JobWorkItem{id=1 intent=Intent { act=android.intent.action.BOOT_COMPLETED flg=0x9000010 cmp=com.adups.fota/.receiver.MyReceiver (has extras) } dcount=1}
+	at android.app.job.JobParameters.completeWork(JobParameters.java:268)
+	at androidx.core.app.JobIntentService$f$a.a(JobIntentService.java:3)
+	at androidx.core.app.JobIntentService$a.a(JobIntentService.java:3)
+	at androidx.core.app.JobIntentService$a.doInBackground(JobIntentService.java:1)
+	at android.os.AsyncTask$2.call(AsyncTask.java:333)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
